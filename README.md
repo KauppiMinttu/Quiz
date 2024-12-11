@@ -1,4 +1,4 @@
 ## Built With
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg)
+- <i class="fab fa-html5"></i> **HTML5**
+- <i class="fab fa-css3-alt"></i> **CSS3**
+- <i class="fab fa-js"></i> **JavaScript**
